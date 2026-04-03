@@ -5,6 +5,7 @@ An interactive, self-contained learning site covering Docker Hardened Images (DH
 ## 🌐 Live Site
 
 > Deployed via GitHub Pages
+> `https://mohd-haseeb.github.io/docker-hardened-images-notes/`
 
 ## 📚 What's Inside
 
